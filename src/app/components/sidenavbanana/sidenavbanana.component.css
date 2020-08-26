@@ -1,0 +1,20 @@
+
+.sidenav-container{
+    background-color: lightskyblue;
+    
+    height: 100%;
+    
+}
+.sidenav{
+    width: 300px;
+    padding: 20px;
+}
+
+.iconos, a>.iconos{
+    margin-right: 8px;
+    margin-left: 0;
+}
+
+.example-margin{
+    margin-left: 50px;
+}
